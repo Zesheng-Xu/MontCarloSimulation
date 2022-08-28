@@ -25,4 +25,4 @@ How to use:
   
   ```python main.py```
 Result: 
-![plot](.Figure-1.png)
+![plot](https://github.com/Zesheng-Xu/MontCarloSimulation/Figure-1.png)
