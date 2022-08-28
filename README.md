@@ -25,4 +25,6 @@ How to use:
   
   ```python main.py```
 Result: 
-![plot](https://github.com/Zesheng-Xu/MontCarloSimulation/Figure-1.png)
+
+
+![alt text](https://github.com/Zesheng-Xu/MontCarloSimulation/Figure-1.png)
