@@ -24,3 +24,5 @@ How to use:
   then
   
   ```python main.py```
+Result: 
+![plot](.Figure-1.png)
