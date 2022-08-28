@@ -19,6 +19,8 @@ How does this simulation work:
 
 How to use: 
 
+    ```pip install -r requirements.txt``
+
   Adjust paramaters within main.py
   
   then
