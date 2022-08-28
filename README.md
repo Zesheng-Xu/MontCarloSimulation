@@ -26,5 +26,4 @@ How to use:
   ```python main.py```
 Result: 
 
-<img src="[/path/to/img.jpg" alt="Alt text](https://github.com/Zesheng-Xu/MontCarloSimulation/Figure-1.png)" title="Figure 1">
-
+<img src="/Figure_1.png" alt="Alt text" title="Figure 1">
