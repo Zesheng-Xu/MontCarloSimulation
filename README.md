@@ -24,6 +24,7 @@ How to use:
   then
   
   ```python main.py```
+
 Result: 
 
 <img src="/Figure_1.png" alt="Alt text" title="Figure 1">
